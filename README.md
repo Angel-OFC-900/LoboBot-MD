@@ -115,10 +115,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="[https://github.com/diegojadibot]"><img src="https://github.com/diegojadibot.png" width="100" height="100" alt="Ender"/></a>
 <a href="[https://github.com/Jxtxn17]"><img src="https://github.com/Jxtxn17.png" width="100" height="100" alt="Jxtxn"/></a>
 <td align="center"><a 
-  href="https://github.com/Aleixon127271"><img src="https://github.com/Aleixon127271.png?size=100" width="100px;" alt=""/><br /><sub><b>Aleixon</b></sub></a><br /><sub><i>Desarollador Oficial</i></sub></td>
-    <td align="center"><a   
-<td align="center"><a 
- 
 
 
 
