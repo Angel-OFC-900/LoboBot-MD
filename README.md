@@ -112,9 +112,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   
 
 ## `🌼COLABORADORES DEL BOT🌼` 
-<a href="[https://github.com/diegojadibot]"><img src="https://github.com/diegojadibot.png"  
-width="100" height="100" alt="Ender"/></a>
-<a 
+<a href="https://github.com/diegojadibot"><img src="https://github.com/diegojadibot.png" width="250" height="250" alt="Diego"/></a>
+  
 
 
   
