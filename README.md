@@ -74,7 +74,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite.git && cd Lobo-Bot-Lite
+git clone https://github.com/Angel-OFC-900/LoboBot-MD.git && cd LoboBot-MD
 ```
 
 ```bash
@@ -97,7 +97,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Lobo-termux
+> cd Lobotermux
 > npm start
 ```
 
@@ -116,7 +116,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="http://wa.me/51982110760" target="blank"><img src="https://img.shields.io/badge/Angel_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉📄✦CUSTOMER SUPPORT✦📄`
-<a href="http://wa.me/50576390682" target="blank"><img src="https://img.shields.io/badge/ENDER_GB_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/50576390682" target="blank"><img src="https://img.shields.io/badge/DIEGO_JADI_BOT_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
