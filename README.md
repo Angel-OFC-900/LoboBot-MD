@@ -34,6 +34,18 @@
 ### `—◉ ⚙️𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝗰𝗶𝗼𝗻⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/Angel-OFC-900/LoboBot-MD/fork)
 
+
+## `𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐂𝐈𝐎𝐍𝐄𝐒`
+
+------------------ 
+#### INSTALACIÓN AUTOMÁTICA POR TERMUX
+[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=&logoColor=white)](https://youtu.be/smoWgg28wPk?si=ck-t9tvKrJQ0yZbS?feature=share)  
+```bash
+termux-setup-storage
+```
+```bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Angel-OFC-900/LoboBot-MD/master/Lobo.sh | bash
+```
   
 ### `—◉ 💥𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗞𝗼𝘆𝗲𝗯💥`
 
