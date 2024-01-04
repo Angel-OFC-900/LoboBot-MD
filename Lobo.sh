@@ -1,4 +1,4 @@
-# Código creado por @gata_dios      
+# Código creado por @diego     
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución     
@@ -122,7 +122,7 @@ git clone https://github.com/diegojadibot/SakuraBot-MD.git
 echo -e "\033[38;5;51m\033[01mLa clonación se ha descargado e instalado correctamente.\n\033[0m"
 
 echo -e "\033[38;5;188m\033[01mCambiando al directorio del repositorio!!\n\033[0m" 
-cd LoboBot-MD
+cd SakuraBot-MD
 
 echo -e "\e[38;5;117m
 █░█ █▀█ █▀▄ ▄▀█ ▀█▀ █▀▀   █▄█ ▄▀█ █▀█ █▄░█
