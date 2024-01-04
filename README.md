@@ -1,2 +1,2 @@
-## SakuraBot-MD✨️ ##
-> <p>  🚀 SakuraBot (Desarrollo) </b
+## LoboBot-MD✨️ ##
+> <p>  🚀 LoboBot (Desarrollo) </b
