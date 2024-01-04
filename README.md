@@ -1,12 +1,9 @@
 ## SakuraBot-MD✨️ ##
+#### Este Es Yn Bot Editado Bot Real SakuraBot-MD
 > <p>  🚀 Diego (Desarrollo) </b
->🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Angel-OFC-900
+>🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: diegojadibot
 
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀:diegojadibot 
-
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
-
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
+>🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀:Angel
 
 ## `🐺𝐋𝐨𝐛𝐨𝐁𝐨𝐭-𝐌𝐃🐺` 
 <p align="center">
