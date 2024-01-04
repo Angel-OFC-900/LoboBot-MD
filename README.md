@@ -2,7 +2,7 @@
 > <p>  🚀 Diego (Desarrollo) </b
 >🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Angel-OFC-900
 
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
+>🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀:diegojadibot 
 
 >🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
 
@@ -16,7 +16,7 @@
 
 
 
-### `—◉ 🤖𝗟𝗼𝗯𝗼𝗯𝗼𝘁𝘀-𝗠𝗗(𝗼𝗳𝗰)🤖`
+### `—◉ 🤖𝗟𝗼𝗯𝗼𝗯𝗼𝘁-𝗠𝗗(𝗼𝗳𝗰)🤖`
 
 <a href="https://api.whatsapp.com/send/?phone=5491130182250&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
