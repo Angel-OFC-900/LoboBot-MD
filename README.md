@@ -1,5 +1,5 @@
 ## SakuraBot-MD✨️ ##
-#### Este Es Yn Bot Editado Bot Real SakuraBot-MD
+#### Este Es Un Bot Editado Bot Real SakuraBot-MD
 > <p>  🚀 Diego (Desarrollo) </b
 >🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: diegojadibot
 
