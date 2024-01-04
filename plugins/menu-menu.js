@@ -4,7 +4,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   try {
     const pp = imagen4;
     // let vn = './media/menu.mp3'
-    const img = './Menu2.jpg';
+    const img = './Menu4.jpg';
     const d = new Date(new Date + 3600000);
     const locale = 'es-ES';
     const week = d.toLocaleDateString(locale, {weekday: 'long'});
@@ -21,8 +21,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
- const str = `${conn.user.jid == global.conn.user.jid ? '' : `┣┅⟣✦ *Creador:* Diego
-┣┅⟣✦ *Numero:* +57 301 3114854
+ const str = `${conn.user.jid == global.conn.user.jid ? '' : `┣┅⟣✦ *Creador:*Angel
+┣┅⟣✦ *Numero:* +51 982 110 760
 ┣┅⟣✦ *Bot Oficial:* +51 935 499 065
 ┣┅⟣✦ *Tiempo activo:* ${uptime}
 ┣┅⟣✦ *Usuarios regs:* ${rtotalreg}
@@ -31,7 +31,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣┅⟣✦ *🧰Experiencia:* ${exp}
 ┣┅⟣✦ *⚓️Rango:* ${role}
 ┣┅⟣✦ *💎Diamantes:* ${limit}
-┣┅⟣✦ *👾SakuCoins:* ${money}
+┣┅⟣✦ *🐺LoboCoins:* ${money}
 ┣┅⟣✦ *🪙Tokens:* ${joincount}
 ┣┅⟣✦ *🎟Premium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
 ┃ꨄ︎ Mensajes en espera
