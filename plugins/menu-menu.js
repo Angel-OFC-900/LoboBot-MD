@@ -21,30 +21,12 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
- const str = `${conn.user.jid == global.conn.user.jid ? '' : `➪𝖲𝖡-𝖲𝖴𝖡 𝖡𝖮𝖳: @${global.conn.user.jid.split`@`[0]}`}
-
-╭═══〘✯✯✯✯✯✯✯✯✯〙═══╮
-║  ◉— *𝚂𝙰𝙺𝚄𝚁𝙰𝙱𝙾𝚃 : 𝙼𝙳 - 𝙾𝙵𝙲* —◉
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *𝗛ola, ${taguser}*
-╰═══╡✯✯✯✯✯✯✯✯✯╞════╯
-
-┏━━━━━━━━━━━━━━━━┓
-┃ ⏤͟͟͞͞𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊́𝙉
-┗━━━━━━━━━━
-┣┅⟣✦ 𝘏𝘰𝘭𝘢, 𝘚𝘰𝘺 𝘚𝘢𝘬𝘶𝘳𝘢𝘉𝘰𝘵
-┣┅⟣✦ *Creador:* Diego
+ const str = `${conn.user.jid == global.conn.user.jid ? '' : `┣┅⟣✦ *Creador:* Diego
 ┣┅⟣✦ *Numero:* +57 301 3114854
 ┣┅⟣✦ *Bot Oficial:* +51 935 499 065
 ┣┅⟣✦ *Tiempo activo:* ${uptime}
 ┣┅⟣✦ *Usuarios regs:* ${rtotalreg}
 ┣┅⟣✦ *Usuarios totales:* ${rtotal}
-┣┅⟣✦ *Fecha:* ${date}
-┗━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━┓
-┃ ⏤͟͟͞𝙄𝙉𝙁𝙊 𝘿𝙀𝙇 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 
-┗━━━━━━━━━━━━━━
 ┣┅⟣✦ *🎖Nivel:* ${level}
 ┣┅⟣✦ *🧰Experiencia:* ${exp}
 ┣┅⟣✦ *⚓️Rango:* ${role}
@@ -52,11 +34,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣┅⟣✦ *👾SakuCoins:* ${money}
 ┣┅⟣✦ *🪙Tokens:* ${joincount}
 ┣┅⟣✦ *🎟Premium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
-┗━━━━━━━━━━━━━━━━┛
-${readMore}
-┏━━━━━━━━━━━━━━━━┓
-┃ ⏤͟͟͞͞𝙎𝙊𝙇𝙐𝘾𝙄𝙊𝙉
-┗━━━━━━━━━━━━━
 ┃ꨄ︎ Mensajes en espera
 ┃↻ _${usedPrefix}fixmsgespera_
 ┃ꨄ︎ Mensajes en espera (owner)
