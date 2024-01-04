@@ -118,7 +118,7 @@ echo -e "\e[38;5;183m
 ╚═╝░░╚═╝░░╚═╝░░  ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝\n\e[0m"
 
 echo -e "\033[38;5;188m"
-git clone https://github.com/Angel-OFC-900/LoboBot-MD.git
+git clone https://github.com/diegojadibot/SakuraBot-MD.git
 echo -e "\033[38;5;51m\033[01mLa clonación se ha descargado e instalado correctamente.\n\033[0m"
 
 echo -e "\033[38;5;188m\033[01mCambiando al directorio del repositorio!!\n\033[0m" 
