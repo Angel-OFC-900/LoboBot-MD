@@ -12,7 +12,7 @@ import { es } from "./lib/idiomas/total-idiomas.js"
 global.botnumber = ""
 
 global.owner = [ 
-   ['573013114854', '👑 Sakura - Creador 👑', true],
+   ['51982110760', '👑 Lobo - Creador 👑', true],
   ['573218138672', '💫 Sakura - Collaborator 1 💫', true],
   ['573207200376', '💫 Sakura - Collaborator 2 💫', true],
   ['573246822621', '💫 Sakura - Collaborator 3 💫', true],
@@ -27,14 +27,14 @@ global.owner = [
 global.suittag = ['573013114854'];
 global.prems = ['573218138672'];
 
-global.lenguajeSK = es //idioma de sakurabot
+global.lenguajeSK = es //idioma de lobobot
 
-global.packname = '𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩-𝙈𝘿✨️';
-global.author = '𝘿𝙞𝙚𝙜𝙤 𝙊𝙛𝙞𝙘𝙞𝙖𝙡';
-global.wm = '𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩-𝙈𝘿';
-global.titulowm = '𝙎𝙖𝙠𝙪𝙧𝙞𝙩𝙖-𝙈𝘿';
-global.titulowm2 = `𝘋𝘪𝘦𝘨𝘰 𝘖𝘧𝘪𝘤𝘪𝘢𝘭`
-global.igfg = '𝘋𝘪𝘦𝘨𝘰 𝘖𝘧𝘪𝘤𝘪𝘢𝘭';
+global.packname = '𝗟𝗼𝗯𝗼𝗕𝗼𝘁-𝗠𝗗✨️';
+global.author = '𝗔𝗻𝗴𝗲𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹';
+global.wm = '𝗟𝗼𝗯𝗼𝗕𝗼𝘁-𝗠𝗗';
+global.titulowm = '𝗟𝗼𝗯𝗶𝘁𝗼-𝗠𝗗';
+global.titulowm2 = `𝘈𝘯𝘨𝘦𝘭 𝘖𝘧𝘪𝘤𝘪𝘢𝘭`
+global.igfg = '𝘈𝘯𝘨𝘦𝘭 𝘖𝘧𝘪𝘤𝘪𝘢𝘭';
 global.wait = '*⏳️ Cargando Espere Un Momento...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -59,11 +59,11 @@ global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
 global.gt = 'SakuraBot';
 global.mysticbot = 'SakuraBot';
 global.md = 'https://github.com/diegojadibot/SakuraBot-MD';
-global.mysticbot = 'https://github.com/diegojadibot/SakuraBot-MD';
+global.mysticbot = 'https://github.com/Angel-OFC-900/LoboBot-MD';
 global.waitt = '*⏳ Cargando Espere Un Momento...*';
 global.waittt = '*⏳ Cargando Espere Un Momento...*';
 global.waitttt = '*⏳ Cargando Espere Un Momento...*';
-global.nomorown = '573013114854';
+global.nomorown = '51982110760';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
