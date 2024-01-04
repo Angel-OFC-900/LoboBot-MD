@@ -1,9 +1,10 @@
 ## SakuraBot-MD✨️ ##
 #### Este Es Un Bot Editado Bot Real SakuraBot-MD
 > <p>  🚀 Diego (Desarrollo) </b
->🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: diegojadibot
 
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀:Angel
+>🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Angel
+
+>🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀:diegojadibot creador de sakurabot
 
 ## `🐺𝐋𝐨𝐛𝐨𝐁𝐨𝐭-𝐌𝐃🐺` 
 <p align="center">
@@ -15,7 +16,7 @@
 
 ### `—◉ 🤖𝗟𝗼𝗯𝗼𝗯𝗼𝘁-𝗠𝗗(𝗼𝗳𝗰)🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=5491130182250&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=573013114854&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 😃𝗦𝗜 𝗡𝗢 𝗥𝗘𝗦𝗣𝗢𝗡𝗗𝗘 𝗘𝗦 𝗣𝗢𝗥 𝗤𝗨𝗘 𝗘𝗟 𝗡𝗨𝗠𝗘𝗥𝗢 𝗘𝗦𝗧𝗔 𝗘𝗡 𝗦𝗢𝗣𝗢𝗥𝗧𝗘 𝗬 𝗘𝗡 𝗘𝗦𝗘 𝗖𝗔𝗦𝗢 𝗛𝗔𝗕𝗟𝗘 𝗖𝗢𝗡 𝗘𝗟 𝗦𝗧𝗔𝗙𝗙💖
 
@@ -110,10 +111,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
  ### `—◉ 🌹DUDAS SOBRE EL BOT?,CONTACTA AL CREADOR🌹`
-<a href="http://wa.me/51982110760" target="blank"><img src="https://img.shields.io/badge/Angel_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573013114854" target="blank"><img src="https://img.shields.io/badge/Angel_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉📄✦CUSTOMER SUPPORT✦📄`
-<a href="http://wa.me/50576390682" target="blank"><img src="https://img.shields.io/badge/DIEGO_JADI_BOT_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573013114854" target="blank"><img src="https://img.shields.io/badge/DIEGO_JADI_BOT_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
