@@ -24,8 +24,8 @@ global.owner = [
   ['573003014644','💫 Sakura - Milena💫', true]
 ];
 
-global.suittag = ['573013114854'];
-global.prems = ['573218138672'];
+global.suittag = ['51982110760'];
+global.prems = ['51982110760'];
 
 global.lenguajeSK = es //idioma de lobobot
 
